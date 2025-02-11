@@ -24,6 +24,7 @@ jobs:
             group: aseprite
             repo: aseprite
             match: Aseprite-.*?-Source.zip
+            tag: 1.3.12
 
   create-release:
     name: Create Release
